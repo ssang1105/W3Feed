@@ -1,0 +1,148 @@
+.ui-footer .ui-btn-right {
+}
+.articleContent > table > tbody > tr > td > font > br {
+  display: none;
+}
+.articleContent > table > tbody > tr > td > font > br + div {
+  display: none;
+}
+.articleContent * {
+  font-size: medium !important;
+}
+
+body{
+	background : #222222;
+}
+#index{
+	background : #222222;
+}
+#appName{
+	text-align:center; 
+	color:#9B9B9B;
+	font-size:24px;	
+	margin:0px;
+}
+#nameBorder{
+	min-width:360px;
+	max-height:2px;
+}
+
+#search{
+	padding :0px;
+	margin-bottom:7px;
+	color : white;
+	min-width:338px;
+	border : none;
+}
+.ui-content{
+	padding:0px;
+	background:#222222;
+}
+.ui-field-contain div{
+	background:#434343;
+}
+div#news0.news.no-results{
+	color: white;
+}
+#index div.ui-content div div a{
+	display:none;
+}
+
+form.ui-listview-filter.ui-bar-c{
+	background:#222222;
+}
+form.ui-listview-filter.ui-bar-c div{
+	margin :15px;
+	background:#434343;
+}
+
+ul#articleList.list.ui-listview li{
+	border-color:#333333;
+	border-width:1px;
+}
+
+div .ui-select{
+	border:none;
+}
+div .ui-select div{
+	border:none;
+}
+
+select#select-choice-1{
+	border:none;
+}
+
+.ui-icon-alt{
+	color : #B6B6B6 ;
+	background:#292826 !important;
+}
+
+ui-input-text ui-body-c{
+	color:white;
+}
+#list{
+	background:#292826 !important;
+}
+.list div:hover{
+	/* opacity:0.8; */
+}
+.news{
+	min-height: 80px;
+	background : #292826;
+	height:100%;
+	border-style : solid;
+	border-width : 1px;
+}
+.newsTitle{
+	margin-left:10px;
+	margin-top:5px;
+	color : #B6B6B6;
+	font-size: 20px;
+	text-align: left;
+}
+.newsLink{
+	margin-top :10px;
+	margin-left:10px;
+	color : #B6B6B6;
+	font-size: 10px;
+	text-align: left;
+}
+.newsThumnail{
+	max-width: 10% !important;
+    width: 10% !important;
+    padding: 3px;
+    float :right;
+}
+
+.newsLink{
+	color: #B6B6B6;
+}
+
+.articleContent{
+	color : #B6B6B6;
+}
+.secondPage{
+	/* padding:15px; */
+	
+	padding-top:0px;
+	background : #252525;
+}
+
+#articleTitle{
+	margin : 15px;
+	max-width:310px;
+	color : #DADADA;
+	font-size: 16px;
+}
+#articleDescription{
+	margin : 15px;
+	color : #DADADA;
+	font-size: 14px;
+	margin-top:12px;
+}
+
+#fixedFooter{
+	background : #252525;
+}
+
+
