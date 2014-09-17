@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://yourdomain/W3Feed" version="1.0.0" viewmodes="maximized">
+    <access origin="http://googleapis.com" subdomains="true"></access>
+    <tizen:application id="8UGpHuu4Zq.W3Feed" package="8UGpHuu4Zq" required_version="2.2"/>
+    <content src="index.html"/>
+    <feature name="http://tizen.org/feature/screen.size.all"/>
+    <icon src="icon.png"/>
+    <name>W3Feed</name>
+</widget>
